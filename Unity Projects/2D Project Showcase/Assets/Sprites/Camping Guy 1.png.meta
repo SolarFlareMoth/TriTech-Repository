@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a566214d77fb6784ab53c388f39c8d73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9212883076695721888
+    second: Camping Guy 1_0
+  - first:
+      213: 8709523392321704651
+    second: Camping Guy 1_1
+  - first:
+      213: 3951443371617606081
+    second: Camping Guy 1_2
+  - first:
+      213: -8607701580939524656
+    second: Camping Guy 1_3
+  - first:
+      213: -5563079655627030111
+    second: Camping Guy 1_4
+  - first:
+      213: -3319399051207233438
+    second: Camping Guy 1_5
+  - first:
+      213: -4399739892372071976
+    second: Camping Guy 1_6
+  - first:
+      213: 1058237548132708464
+    second: Camping Guy 1_7
+  - first:
+      213: -9038974243811855366
+    second: Camping Guy 1_8
+  - first:
+      213: 6865649399530233234
+    second: Camping Guy 1_9
+  - first:
+      213: -4271567461051844586
+    second: Camping Guy 1_10
+  - first:
+      213: -1612827649902007227
+    second: Camping Guy 1_11
+  - first:
+      213: 4526546716563342522
+    second: Camping Guy 1_12
+  - first:
+      213: 8951835693007929568
+    second: Camping Guy 1_13
+  - first:
+      213: -374463155109286678
+    second: Camping Guy 1_14
+  - first:
+      213: 6873193625354634537
+    second: Camping Guy 1_15
+  - first:
+      213: 6727876429189981358
+    second: Camping Guy 1_16
+  - first:
+      213: 583168913801334714
+    second: Camping Guy 1_17
+  - first:
+      213: 4915651292742160648
+    second: Camping Guy 1_18
+  - first:
+      213: 3523767730831566178
+    second: Camping Guy 1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camping Guy 1_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a708a7a85cbadf70800000000000000
+      internalID: 9212883076695721888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25a4a51617ed870800000000000000
+      internalID: 8709523392321704651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d6539fc856d630800000000000000
+      internalID: 3951443371617606081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d50887840d4b8880800000000000000
+      internalID: -8607701580939524656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a106251788fbc2b0800000000000000
+      internalID: -5563079655627030111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260360d56202fe1d0800000000000000
+      internalID: -3319399051207233438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d91c03f0ebf0f2c0800000000000000
+      internalID: -4399739892372071976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0703e68717d9fae00800000000000000
+      internalID: 1058237548132708464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af370b7d0dc1f8280800000000000000
+      internalID: -9038974243811855366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d9f5bc0cfa74f50800000000000000
+      internalID: 6865649399530233234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_10
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61833e1a60858b4c0800000000000000
+      internalID: -4271567461051844586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ca9ab2cc51e99e0800000000000000
+      internalID: -1612827649902007227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_12
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab408fb814681de30800000000000000
+      internalID: 4526546716563342522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_13
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08669422f4b3c70800000000000000
+      internalID: 8951835693007929568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec2d329eb3adcaf0800000000000000
+      internalID: -374463155109286678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_15
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250ebfbf2d726f50800000000000000
+      internalID: 6873193625354634537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_16
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a79e67f73e5d50800000000000000
+      internalID: 6727876429189981358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_17
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfcd2f8905d71800800000000000000
+      internalID: 583168913801334714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_18
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80116977ec6e73440800000000000000
+      internalID: 4915651292742160648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy 1_19
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265233bd410f6e030800000000000000
+      internalID: 3523767730831566178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Camping Guy 1_0: 9212883076695721888
+      Camping Guy 1_1: 8709523392321704651
+      Camping Guy 1_10: -4271567461051844586
+      Camping Guy 1_11: -1612827649902007227
+      Camping Guy 1_12: 4526546716563342522
+      Camping Guy 1_13: 8951835693007929568
+      Camping Guy 1_14: -374463155109286678
+      Camping Guy 1_15: 6873193625354634537
+      Camping Guy 1_16: 6727876429189981358
+      Camping Guy 1_17: 583168913801334714
+      Camping Guy 1_18: 4915651292742160648
+      Camping Guy 1_19: 3523767730831566178
+      Camping Guy 1_2: 3951443371617606081
+      Camping Guy 1_3: -8607701580939524656
+      Camping Guy 1_4: -5563079655627030111
+      Camping Guy 1_5: -3319399051207233438
+      Camping Guy 1_6: -4399739892372071976
+      Camping Guy 1_7: 1058237548132708464
+      Camping Guy 1_8: -9038974243811855366
+      Camping Guy 1_9: 6865649399530233234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
