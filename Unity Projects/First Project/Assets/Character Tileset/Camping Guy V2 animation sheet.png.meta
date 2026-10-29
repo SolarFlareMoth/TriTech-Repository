@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8309fbfa4c4dcc5459bf0ed5928fc53d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6239550465458791512
+    second: Camping Guy V2 animation sheet_0
+  - first:
+      213: 8848308582464683405
+    second: Camping Guy V2 animation sheet_1
+  - first:
+      213: 2769801128627595909
+    second: Camping Guy V2 animation sheet_2
+  - first:
+      213: -5869449614624352146
+    second: Camping Guy V2 animation sheet_3
+  - first:
+      213: 6268583051588625925
+    second: Camping Guy V2 animation sheet_4
+  - first:
+      213: 5695402415965746287
+    second: Camping Guy V2 animation sheet_5
+  - first:
+      213: 7348574244282967494
+    second: Camping Guy V2 animation sheet_6
+  - first:
+      213: 1490022477944684279
+    second: Camping Guy V2 animation sheet_7
+  - first:
+      213: -8171898843760347200
+    second: Camping Guy V2 animation sheet_8
+  - first:
+      213: -8891761607306524021
+    second: Camping Guy V2 animation sheet_9
+  - first:
+      213: 4862807893017096561
+    second: Camping Guy V2 animation sheet_10
+  - first:
+      213: -7976839136344205443
+    second: Camping Guy V2 animation sheet_11
+  - first:
+      213: 7124012116223030691
+    second: Camping Guy V2 animation sheet_12
+  - first:
+      213: 2177261010216855259
+    second: Camping Guy V2 animation sheet_13
+  - first:
+      213: -6401335975709663823
+    second: Camping Guy V2 animation sheet_14
+  - first:
+      213: 1304211280881075312
+    second: Camping Guy V2 animation sheet_15
+  - first:
+      213: -9052046552517813361
+    second: Camping Guy V2 animation sheet_16
+  - first:
+      213: -516328191728233524
+    second: Camping Guy V2 animation sheet_17
+  - first:
+      213: 4231983793178342905
+    second: Camping Guy V2 animation sheet_18
+  - first:
+      213: -2485333740204131720
+    second: Camping Guy V2 animation sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8546bcbf616579650800000000000000
+      internalID: 6239550465458791512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df8d086c18bca70800000000000000
+      internalID: 8848308582464683405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae252937f407620800000000000000
+      internalID: 2769801128627595909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6813455ca68b8ea0800000000000000
+      internalID: -5869449614624352146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50669f2b21b7ef650800000000000000
+      internalID: 6268583051588625925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f643a8062522a0f40800000000000000
+      internalID: 5695402415965746287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5221c37516bf560800000000000000
+      internalID: 7348574244282967494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe7d399c8f9da410800000000000000
+      internalID: 1490022477944684279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c73d355c45979e80800000000000000
+      internalID: -8171898843760347200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ac901cded1a9480800000000000000
+      internalID: -8891761607306524021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171ff32b30a2c7340800000000000000
+      internalID: 4862807893017096561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7715cf81139c4190800000000000000
+      internalID: -7976839136344205443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a57d0b66439dd260800000000000000
+      internalID: 7124012116223030691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6a8496a5f273e10800000000000000
+      internalID: 2177261010216855259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd95e788d2e927a0800000000000000
+      internalID: -6401335975709663823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07449fcff3d791210800000000000000
+      internalID: 1304211280881075312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b50eace9ba06280800000000000000
+      internalID: -9052046552517813361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d488ce32a5d8f0800000000000000
+      internalID: -516328191728233524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5fa9f76d60bba30800000000000000
+      internalID: 4231983793178342905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camping Guy V2 animation sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 41
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af6d29122528dd0800000000000000
+      internalID: -2485333740204131720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Camping Guy V2 animation sheet_0: 6239550465458791512
+      Camping Guy V2 animation sheet_1: 8848308582464683405
+      Camping Guy V2 animation sheet_10: 4862807893017096561
+      Camping Guy V2 animation sheet_11: -7976839136344205443
+      Camping Guy V2 animation sheet_12: 7124012116223030691
+      Camping Guy V2 animation sheet_13: 2177261010216855259
+      Camping Guy V2 animation sheet_14: -6401335975709663823
+      Camping Guy V2 animation sheet_15: 1304211280881075312
+      Camping Guy V2 animation sheet_16: -9052046552517813361
+      Camping Guy V2 animation sheet_17: -516328191728233524
+      Camping Guy V2 animation sheet_18: 4231983793178342905
+      Camping Guy V2 animation sheet_19: -2485333740204131720
+      Camping Guy V2 animation sheet_2: 2769801128627595909
+      Camping Guy V2 animation sheet_3: -5869449614624352146
+      Camping Guy V2 animation sheet_4: 6268583051588625925
+      Camping Guy V2 animation sheet_5: 5695402415965746287
+      Camping Guy V2 animation sheet_6: 7348574244282967494
+      Camping Guy V2 animation sheet_7: 1490022477944684279
+      Camping Guy V2 animation sheet_8: -8171898843760347200
+      Camping Guy V2 animation sheet_9: -8891761607306524021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
